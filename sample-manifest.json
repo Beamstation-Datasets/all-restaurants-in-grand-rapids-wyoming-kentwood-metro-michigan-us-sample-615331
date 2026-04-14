@@ -1,0 +1,12 @@
+{
+  "export_job_id": "9ca87a6e-fd3f-42ad-b552-859bb4a44789",
+  "id_short": 615331,
+  "published_at": "2026-04-14T07:26:02Z",
+  "repo_name": "all-restaurants-in-grand-rapids-wyoming-kentwood-metro-michigan-us-sample-615331",
+  "sample_asset_name": "beamstation_615331_restaurants-us-grandrapidswyomingkentwoodmi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/615331/beamstation_615331_restaurants-us-grandrapidswyomingkentwoodmi_SAMPLE_DIST.csv",
+  "sample_records": 163,
+  "sample_sha256": "6ad350662ec50b52ce03f2b1282c0ea44499cb7669d92ba451daaa0e49021d02",
+  "sample_size_bytes": 616934,
+  "total_records": 1631
+}
